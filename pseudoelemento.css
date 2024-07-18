@@ -31,10 +31,13 @@ padding-bottom: 15px;
 .card_tittle::before,
 .card_tittle::after{
   content:"" ;
-  display: block;
-  width: 100%;
+  display: inline-block;
+  width: 20%;
   height: 3px;
   background-color: black;
+  position:relative;
+  margin-bottom: 5px;
+ 
 }
 ul{
   counter-reset: adso;
