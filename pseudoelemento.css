@@ -10,8 +10,7 @@
 }
 
 body{
-  background-color: #c2c2;
-  font-family:Arial;
+  background-color: #c2c2;  font-family:Arial;
 }
 .card{
   width: 330px;
@@ -36,7 +35,8 @@ padding-bottom: 15px;
   height: 3px;
   background-color: black;
   position:relative;
-  margin-bottom: 5px;
+  margin-bottom: 6px;
+  
  
 }
 ul{
